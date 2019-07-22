@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="@dimen/margin_small"
+              app:behavior_hideable="true"
+              app:behavior_peekHeight="56dp"
+              app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <Button
+            android:id="@+id/b_goToWeb"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/go_to_web"
+            android:visibility="gone"
+            android:layout_marginBottom="@dimen/margin_small"
+    />
+
+    <Button
+            android:id="@+id/b_share"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/share"
+    />
+
+
+</LinearLayout>

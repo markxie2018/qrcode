@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="text_size_normal">17sp</dimen>
+    <dimen name="text_size_big">19sp</dimen>
+
+    <dimen name="margin_small">12dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_big">24dp</dimen>
+
+
+    <dimen name="tool_bar_text_size">22sp</dimen>
+    <dimen name="main_screen_side_padding">10dp</dimen>
+    <dimen name="text_top_padding">25dp</dimen>
+    <dimen name="title_text_size">26sp</dimen>
+    <dimen name="tool_bar_height">56dp</dimen>
+
+    <dimen name="menu_height">90dp</dimen>
+
+</resources>

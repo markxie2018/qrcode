@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorBg">@color/viewBg</item>
+        <item name="colorText">@color/colorText</item>
+        <item name="colorTextDark">@color/colorTextDark</item>
+        <item name="colorTextHeavy">@color/colorTextHeavy</item>
+    </style>
+
+    <style name="AppTheme.Button" parent="Widget.AppCompat.Button.Borderless">
+    </style>
+
+</resources>
